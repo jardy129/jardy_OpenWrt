@@ -80,8 +80,7 @@ jobs:
       working-directory: ./openwrt
       run: |
         git clone https://github.com/fw876/helloworld.git package/ssrp
-        git clone https://github.com/kenzok8/small-package package/small-package
-        git clone https://github.com/kenzok8/openwrt-packages package/openwrt-packages
+        git clone https://github.com/kiddin9/luci-theme-edge.git package/luci-theme-edge
         
     - name: 升级 & 安装 feeds
       working-directory: ./openwrt
