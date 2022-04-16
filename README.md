@@ -1,4 +1,4 @@
-# AutoBuild-Openwrt-LEDE
+# AutoBuild-Openwrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat&logo=github&label=LICENSE)](https://github.com/lunseil/AutoBuild-LEDE/blob/main/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/lunseil/AutoBuild-LEDE.svg?style=flat&logo=appveyor&label=Stars&logo=github)
