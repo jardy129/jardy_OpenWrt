@@ -36,9 +36,9 @@
 
 主题样式:
 
-  1. [Bootstrap](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Bootstrap.png)
-  2. [edge](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/edge.png)
-  3. [argonne](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Material.png)
+  1. [Bootstrap](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/Bootstrap.png)
+  2. [edge](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/edge.png)
+  3. [argonne](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/Material.png)
 
 
 ### 插件
