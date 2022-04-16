@@ -101,12 +101,12 @@ jobs:
         [ -e $CONFIG_FILE ] && mv $CONFIG_FILE openwrt/.config
         chmod +x ./customize.sh && ./customize.sh
             
-    - name: SSH连接
-      uses: P3TERX/ssh2actions@v1.0.0
-      if: (github.event.inputs.ssh == 'true' && github.event.inputs.ssh  != 'false') || contains(github.event.action, 'ssh')
-      env:
-        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}     
+    #- name: SSH连接
+    #  uses: P3TERX/ssh2actions@v1.0.0
+    #  if: (github.event.inputs.ssh == 'true' && github.event.inputs.ssh  != 'false') || contains(github.event.action, 'ssh')
+    # env:
+    #    TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    #    TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}     
         
     - name: 预下载DL库
       working-directory: ./openwrt
@@ -209,14 +209,14 @@ jobs:
         retain_days: 1
         keep_minimum_runs: 3
 
-    - name: 删除旧版本
-      uses: dev-drprasad/delete-older-releases@v0.1.0
-      if: env.UPLOAD_RELEASE == 'true' && !cancelled()
-      with:
-        keep_latest: 3
-        delete_tags: true
-      env:
-        REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+    #- name: 删除旧版本
+    #  uses: dev-drprasad/delete-older-releases@v0.1.0
+    #  if: env.UPLOAD_RELEASE == 'true' && !cancelled()
+    # with:
+    #  keep_latest: 3
+    #   delete_tags: true
+    #  env:
+    #   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
     
         
 
