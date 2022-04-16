@@ -6,7 +6,7 @@
 # Author: Jardy
 #=================================================
 
-name: 编译X86_64_openwrt
+name: MK_X86_64_openwrt
 
 on:      
   repository_dispatch:
