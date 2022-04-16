@@ -6,7 +6,7 @@
 # Author: Jardy
 #=================================================
 
-name: MK_X86_64_openwrt
+name: X86_64_openwrt
 
 on:      
   repository_dispatch:
