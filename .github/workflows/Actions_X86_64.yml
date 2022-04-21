@@ -89,11 +89,11 @@ jobs:
         ./scripts/feeds install -a
         ./scripts/feeds install -a
      
-    #- name: 更换banner
-    # run: |
-    #    cd openwrt/package/base-files/files/etc
-    #    sudo rm banner
-    #    wget https://github.com/jardy129/jardy_OpenWrt/blob/bf55a7e568e6d79d1b1bfea94e139130c0d799b9/banner   
+    - name: 更换banner
+      run: |
+        cd openwrt/package/base-files/files/etc
+        sudo rm banner
+        wget https://github.com/jardy129/jardy_OpenWrt/blob/bf55a7e568e6d79d1b1bfea94e139130c0d799b9/banner   
 
     - name: 自定义config
       run: |
