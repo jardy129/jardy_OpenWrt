@@ -93,7 +93,7 @@ jobs:
       run: |
         cd openwrt/package/base-files/files/etc
         sudo rm banner
-        wget https://github.com/jardy129/jardy_OpenWrt/blob/27cb78623d0bd2dd93388d209cac2cc8d9de60cc/banner   
+        wget https://github.com/jardy129/jardy_OpenWrt/blob/aced564a68e5d3b996fc5c6694fcfd6a8b04078d/banner   
 
     - name: 自定义config
       run: |
