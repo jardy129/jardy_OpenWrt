@@ -82,7 +82,6 @@ jobs:
         git clone https://github.com/fw876/helloworld.git package/ssrp
         git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git package/bandwidthd
         git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
-        git clone https://github.com/jerrykuku/openwrt-package.git package/jerrykuku
         
         
     - name: 升级 & 安装 feeds
