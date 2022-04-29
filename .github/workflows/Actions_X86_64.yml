@@ -81,6 +81,7 @@ jobs:
       run: |
         git clone https://github.com/fw876/helloworld.git package/ssrp
         git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+        git clone https://github.com/kenzok78/luci-theme-argonne package/luci-theme-argonne
         
         
     - name: 升级 & 安装 feeds
