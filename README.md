@@ -38,7 +38,7 @@
 
   1. [Bootstrap](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/Bootstrap.png)
   2. [edge](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/edge.png)
-  3. [argonne](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/Material.png)
+  3. [argon](https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/Material.png)
 
 
 ### 插件
