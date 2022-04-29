@@ -80,7 +80,6 @@ jobs:
       working-directory: ./openwrt
       run: |
         git clone https://github.com/fw876/helloworld.git package/ssrp
-        git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git package/bandwidthd
         git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
         
         
