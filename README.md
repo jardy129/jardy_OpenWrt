@@ -84,4 +84,9 @@
 
 以下是此项目自动编译后展示：
 ![MAIN](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/MAIN.PNG)
+![fw](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/fw.png)
+![xt](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/xt.png)
+![ssjk](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/ssjk.png)
+![yygl](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/yygl.png)
+![edge](https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/main/pictures/edge-zt.png)
 
