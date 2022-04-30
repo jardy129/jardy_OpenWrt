@@ -30,7 +30,7 @@
 
 ## 默认安装
 
-[主界面](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/main.png)
+[主界面](https://github.com/jardy129/jardy_OpenWrt/blob/5346f303638a5aea857168aece6b4bb341d73625/pictures/MAIN.PNG)
 
 ### 主题
 
