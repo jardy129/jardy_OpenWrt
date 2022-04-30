@@ -30,7 +30,7 @@
 
 ## 默认安装
 
-[主界面](https://github.com/jardy129/jardy_OpenWrt/blob/5346f303638a5aea857168aece6b4bb341d73625/pictures/MAIN.PNG)
+[主界面]![网页捕获_8-2-2022_112318_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912488-38b54e1c-15d5-47b1-a4a3-0eab2c5b0a16.jpeg)
 
 ### 主题
 
