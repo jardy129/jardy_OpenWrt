@@ -96,7 +96,7 @@ jobs:
       run: |
         cd openwrt/package/base-files/files/etc
         sudo rm banner
-        wget https://raw.githubusercontent.com/lunseil/AutoBuild-LEDE/master/banner   
+        wget https://raw.githubusercontent.com/jardy129/jardy_OpenWrt/master/banner
 
     - name: 自定义config
       run: |
