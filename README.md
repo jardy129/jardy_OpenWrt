@@ -30,7 +30,7 @@
 
 ## 默认安装
 
-[主界面]![网页捕获_8-2-2022_112318_10 10 10 1](pictures/MAIN.PNG)
+[主界面]
 
 ### 主题
 
@@ -43,23 +43,28 @@
 
 ### 插件
 
+#### 状态
+  1. 实时监控
+  2. 释放内存
+
 #### 系统
-
   1. ttyd
-  2. 定时重启
-  3. 文件传输
+  2. 重启
+  3. web管理
   4. 挂载
-  5. 多拨(*new*)
-  6. 负载均衡(*new*)
-
+  5. 文件传输
+ 
 #### 服务
-  1. openclash
-  2. wol
+  1. 广告屏蔽大师 Plus+
+  2. ShadowSocksR Plus+
   3. 上网时间控制
-  4. push
-  5. ddns
-  6. upnp 
-  7. istore
+  4. ServerChan
+  5. 动态dns
+  6. 解锁网易云灰色歌曲 
+  7. KMS 服务器
+#### 网络
+  1. 应用过滤（new）
+  2. Turbo ACC 网络加速
 
 ## 鸣谢
 
@@ -78,8 +83,4 @@
 
 
 以下是此项目自动编译后展示：
-![网页捕获_8-2-2022_112318_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912488-38b54e1c-15d5-47b1-a4a3-0eab2c5b0a16.jpeg)
-![网页捕获_8-2-2022_112415_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912502-79a4a92c-907b-4a61-ae97-46cf5517ed76.jpeg)
-![网页捕获_8-2-2022_112446_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912508-888ea7a1-0bb6-4482-8d97-6d03b441d777.jpeg)
-![网页捕获_8-2-2022_112613_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912513-09e60bf4-4255-492a-8f6d-11a9e4052e95.jpeg)
-![网页捕获_8-2-2022_112626_10 10 10 1](https://user-images.githubusercontent.com/19170650/152912522-b9c63a49-bb11-43c6-b973-5217b02b5f70.jpeg)
+
