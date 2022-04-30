@@ -83,5 +83,5 @@
 
 
 以下是此项目自动编译后展示：
-https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/yygl.png
+![网页捕获_8-2-2022_112318_10 10 10 1]https://github.com/jardy129/jardy_OpenWrt/blob/main/pictures/yygl.png
 
