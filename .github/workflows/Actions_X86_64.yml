@@ -212,14 +212,14 @@ jobs:
         retain_days: 1
         keep_minimum_runs: 3
 
-    - name: 删除旧版本
-      uses: dev-drprasad/delete-older-releases@v0.1.0
-      if: env.UPLOAD_RELEASE == 'true' && !cancelled()
-      with:
-        keep_latest: 3
-        delete_tags: true
-      env:
-       REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+    #- name: 删除旧版本
+      #uses: dev-drprasad/delete-older-releases@v0.1.0
+      #if: env.UPLOAD_RELEASE == 'true' && !cancelled()
+      #with:
+        #keep_latest: 3
+        #delete_tags: true
+      #env:
+       #REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
     
         
 
